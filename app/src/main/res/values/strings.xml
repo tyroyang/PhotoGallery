@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">图片墙</string>
+    <string name="search">搜索</string>
+    <string name="clear_search">清除搜索</string>
+</resources>
